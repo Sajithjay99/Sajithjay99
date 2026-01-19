@@ -1,7 +1,8 @@
 <!-- ===================== HERO ===================== -->
 <p align="center">
-  <img src="https://camo.githubusercontent.com/72dfbcb043d5d06c54ac983a65d291e5c6286678c877a019ffe1d106a103539c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3030443946462c35303a3636374545412c3130303a373634424132266865696768743d3330302673656374696f6e3d68656164657226746578743d53414a4954482532304a415941534f4f5249594126666f6e7453697a653d383026666f6e74416c69676e3d353026666f6e74416c69676e593d343026666f6e74436f6c6f723d66666626616e696d6174696f6e3d7477696e6b6c696e6726646573633d46756c6c253230537461636b253230446576656c6f706572253230e280a22532304d45524e25323044656c6976657279253230e280a2253230436c6f7564253230466f756e646174696f6e73266465736353697a653d32302664657363416c69676e3d35302664657363416c69676e593d3630" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:667EEA,100:764BA2&height=300&section=header&text=SAJITH%20JAYASOORIYA&fontSize=80&fontAlign=50&fontAlignY=40&fontColor=fff&animation=twinkling&desc=Full%20Stack%20Developer&descSize=20&descAlign=50&descAlignY=60" />
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700" alt="animated-divider" />
@@ -31,7 +32,7 @@
 
 ## 📌 Operating Snapshot
 - 🌱 Currently learning **Spring Boot**
-- 💬 Ask me about **programming in general** — always open to help and learn together
+- 💬 Ask me about **programming in general** - always open to help and learn together
 - 📫 Reach me: **sajithjay99@gmail.com**
 - ⚡ Fun fact: **Fueled by coffee, I can talk tech all day!**
 
@@ -53,8 +54,10 @@
 
 <br/>
 
-<!-- FIXED: replaced old heroku streak service -->
- 
+<img
+  src="https://streak-stats.demolab.com?user=Sajithjay99&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  height="165"
+/>
 
 </td>
 
@@ -74,9 +77,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:1E40AF&height=3&section=header" width="100%" alt="blue-divider" />
 </p>
 
-
-
- 
 <h1 align="center">
   Tech Stack & Arsenal
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
@@ -104,10 +104,10 @@
 ### 🗄️ Databases & Cloud
 <p><img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,aws,azure" /></p>
 
-### 📱 Mobile & Languages
+### 📱 Mobile and Languages
 <p><img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,js,ts,cpp,c,python" /></p>
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools and Platforms
 <p><img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,figma,postman,linux" /></p>
 
 </div>
