@@ -54,10 +54,7 @@
 
 <br/>
 
-<img
-  src="https://streak-stats.demolab.com?user=Sajithjay99&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF"
-  height="165"
-/>
+
 
 </td>
 
